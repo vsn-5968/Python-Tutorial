@@ -1,0 +1,5 @@
+L=eval(input("Enter a list of numbers: "))
+small=min(L)
+print("The smallest number is: ",small)
+large=max(L)
+print("The largest number is: ",large)
